@@ -60,13 +60,9 @@ Wykorzystując zrzuty ekranowe kwerend przygotuj grafiki dla witryny internetowe
 
 
 
-<h5>Styl CSS witryny internetowej</h5>
+### Styl CSS witryny internetowej
 
-<p>Styl elementów witryny zdefiniuj przy pomocy języka CSS, w osobnym pliku
-
-o nazwie <i>styl.css</i>, plik ten zapisz w podfolderze <i>www</i> oraz
-
-prawidłowo dołącz do pliku z kodem strony.</p>
+<p>Styl elementów witryny zdefiniuj przy pomocy języka CSS, w osobnym pliku o nazwie <i>styl.css</i>, plik ten zapisz w podfolderze <i>www</i> oraz prawidłowo dołącz do pliku z kodem strony.</p>
 
 <p>Wymagania odnośnie stylu CSS:</p>
 
@@ -98,9 +94,7 @@ prawidłowo dołącz do pliku z kodem strony.</p>
 
 <li>punktor list w panelu lewym: okrąg,</li>
 
-<li>wszystkie komórki tabeli obramowane ramką czarną kropkowaną
-
-szerokości 1 px,</li>
+<li>wszystkie komórki tabeli obramowane ramką czarną kropkowaną szerokości 1 px,</li>
 
 <li>włączone paski przewijania dla panelu prawego,</li>
 
@@ -124,59 +118,19 @@ szerokości 1 px,</li>
 
 edycyjnych typu tekstowego,</li>
 
-<li>jeżeli przynajmniej jedno z pól jest puste lub do któregoś pola
+<li>jeżeli przynajmniej jedno z pól jest puste lub do któregoś pola wpisano ciąg znaków, który nie jest poprawną liczbą rzeczywistą skrypt powinien wyświetlić w osobnym oknie komunikat „wpisz poprawne dane”,</li>
 
-wpisano ciąg znaków, który nie jest poprawną liczbą rzeczywistą
+<li>w przeciwnym przypadku skrypt powinien przekonwertować ciągi znaków na liczby rzeczywiste,</li>
 
-skrypt powinien wyświetlić w osobnym oknie komunikat „wpisz poprawne
+<li>następnie skrypt powinien wyznaczyć najwyższą spośród trzech średnich ocen,</li>
 
-dane”,</li>
-
-<li>w przeciwnym przypadku skrypt powinien przekonwertować ciągi znaków
-
-na liczby rzeczywiste,</li>
-
-<li>następnie skrypt powinien wyznaczyć najwyższą spośród trzech
-
-średnich ocen,</li>
-
-<li>na koniec skrypt powinien wyświetlić wyznaczoną najwyższą średnią
-
-poniżej napisu „Najwyższa średnia” w lewym panelu.</li>
+<li>na koniec skrypt powinien wyświetlić wyznaczoną najwyższą średnią poniżej napisu „Najwyższa średnia” w lewym panelu.</li>
 
 </ul>
 
-<p><b>UWAGA:</b> <i> po zakończeniu pracy nagraj płytę z rezultatami pracy.
+<p><b>UWAGA:</b> <i> 
 
-W folderze z Twoim numerem PESEL powinny się znajdować podfoldery:
-
-baza oraz www. W podfolderze baza powinny znajdować się pliki:
-
-szkola_nowa.sql, zapytania.txt, kwerenda1.png, kwerenda2.png,
-
-nowy_uzytkownik.png i uprawnienia.png. W podfolderze www powinny
-
-znajdować się pliki: kwerenda1.jpg, kwerenda2.jpg,
-
-nowy_uzytkownik.jpg i uprawnienia.jpg oraz index.html, styl.css,
-
-ewentualnie inne przygotowane pliki.</i></p><i>
-
-</i><p><i>Utwórz plik tekstowy. Zapisz w nim nazwę przeglądarki internetowej w
-
-której weryfikowałeś poprawność działania witryny. Zapisz go na płycie
-
-jako przegladarka.txt. Po nagraniu płyty, sprawdź poprawność nagrania.
-
-Opisz płytę swoim numerem PESEL i pozostaw zapakowaną w pudełku na
-
-stanowisku.</i></p>
-
-
-
-
-
-<p><b>Czas przeznaczony na wykonanie zadania wynosi 150 minut.</b></p>
+W repozytorium powinny znajdować się podfoldery: **baza** oraz **www**. W podfolderze **baza** powinny znajdować się pliki: `szkola_nowa.sql`, `zapytania.txt`, `kwerenda1.png`, `kwerenda2.png`, `nowy_uzytkownik.png` i `uprawnienia.png`. W podfolderze **www** powinny znajdować się pliki: `kwerenda1.jpg`, `kwerenda2.jpg`, `nowy_uzytkownik.jpg` i `uprawnienia.jpg` oraz `index.html`, `styl.css`, ewentualnie inne przygotowane pliki.</i></p><i>
 
 <p><b>Ocenie będzie podlegać 5 rezultatów:</b></p>
 
@@ -193,13 +147,3 @@ stanowisku.</i></p>
 </ul>
 
 
-
-<div class="info-wrapper-exam">
-
-PODANE ROZWIĄZANIE JEST TYLKO PRZYKŁADEM.
-
-</div>
-
-                                        </div>
-
-                                    </div>

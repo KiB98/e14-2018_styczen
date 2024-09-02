@@ -104,9 +104,7 @@ Wykorzystując zrzuty ekranowe kwerend przygotuj grafiki dla witryny internetowe
 
 
 
-<h5>Skrypt wyznaczający najwyższą średnią ocen </h5>
-
-
+### Skrypt wyznaczający najwyższą średnią ocen 
 
 <ul>
 
@@ -114,9 +112,7 @@ Wykorzystując zrzuty ekranowe kwerend przygotuj grafiki dla witryny internetowe
 
 <li>powinien wykonywać działania na liczbach rzeczywistych,</li>
 
-<li>po kliknięciu przycisku „wyznacz” skrypt pobiera dane z trzech pól
-
-edycyjnych typu tekstowego,</li>
+<li>po kliknięciu przycisku „wyznacz” skrypt pobiera dane z trzech pól edycyjnych typu tekstowego,</li>
 
 <li>jeżeli przynajmniej jedno z pól jest puste lub do któregoś pola wpisano ciąg znaków, który nie jest poprawną liczbą rzeczywistą skrypt powinien wyświetlić w osobnym oknie komunikat „wpisz poprawne dane”,</li>
 
